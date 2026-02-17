@@ -1,0 +1,71 @@
+<section id="videos">
+  <h2>My Music Playlist</h2>
+  <div class="video-grid">
+
+    <!-- Alan Walker - Faded -->
+    <iframe src="https://www.youtube.com/embed/60ItHLz5WEA" 
+      title="Alan Walker - Faded" allowfullscreen></iframe>
+
+    <!-- Wiz Khalifa - See You Again -->
+    <iframe src="https://www.youtube.com/embed/RgKAFK5djSk" 
+      title="Wiz Khalifa - See You Again" allowfullscreen></iframe>
+
+    <!-- Maroon 5 - Memories -->
+    <iframe src="https://www.youtube.com/embed/SlPhMPnQ58k" 
+      title="Maroon 5 - Memories" allowfullscreen></iframe>
+
+    <!-- Black Sherif - Second Sermon -->
+    <iframe src="https://www.youtube.com/embed/0GzFZV2n2nY" 
+      title="Black Sherif - Second Sermon" allowfullscreen></iframe>
+
+    <!-- Fireboy DML - Peru -->
+    <iframe src="https://www.youtube.com/embed/hnR6XlG0R0M" 
+      title="Fireboy DML - Peru" allowfullscreen></iframe>
+
+    <!-- Lewis Capaldi - Someone You Loved -->
+    <iframe src="https://www.youtube.com/embed/Zgq8nQx1f7w" 
+      title="Lewis Capaldi - Someone You Loved" allowfullscreen></iframe>
+<!-- Emma Heesters - Perfect (cover) --> <iframe src="https://www.youtube.com/embed/2Vv-BfVoq4g" title="
+Emma Heesters - Perfect" allowfullscreen></iframe> <!—
+ David Ekene - Greater Tomorrow --> <iframe src="https://www.youtube.com/embed/3X9w6uFvF9U" 
+title="David Ekene - Greater Tomorrow" allowfullscreen></iframe>
+    <!-- The Weeknd & Ariana Grande - Save Your Tears -->
+    <iframe src="https://www.youtube.com/embed/XXYlFuWEuKI" 
+      title="Save Your Tears Remix" allowfullscreen></iframe>
+
+    <!-- Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open -->
+    <iframe src="https://www.youtube.com/embed/AdM8x1k7JxY" 
+      title="Leave the Door Open" allowfullscreen></iframe>
+
+    <!-- Justin Bieber - Peaches -->
+    <iframe src="https://www.youtube.com/embed/tQ0yjYUFKAE" 
+      title="Peaches" allowfullscreen></iframe>
+
+    <!-- Dua Lipa - Levitating -->
+    <iframe src="https://www.youtube.com/embed/TUVcZfQe-Kw" 
+      title="Levitating" allowfullscreen></iframe>
+
+    <!-- Doja Cat ft. SZA - Kiss Me More -->
+    <iframe src="https://www.youtube.com/embed/0EVVKs6DQLo" 
+      title="Kiss Me More" allowfullscreen></iframe>
+
+    <!-- Olivia Rodrigo - Drivers License -->
+    <iframe src="https://www.youtube.com/embed/ZmDBbnmKpqQ" 
+      title="Drivers License" allowfullscreen></iframe>
+
+    <!-- BTS - Butter -->
+    <iframe src="https://www.youtube.com/embed/WMweEpGlu_U" 
+      title="Butter" allowfullscreen></iframe>
+
+    <!-- Ed Sheeran - Bad Habits -->
+    <iframe src="https://www.youtube.com/embed/orJSJGHjBLI" 
+      title="Bad Habits" allowfullscreen></iframe>
+
+    <!-- Billie Eilish - Happier Than Ever -->
+    <iframe src="https://www.youtube.com/embed/5GJWxDKyk3A" 
+      title="Happier Than Ever" allowfullscreen></iframe>
+
+    <!-- Lil Nas X - Montero (Call Me By Your Name) -->
+    <iframe src="https://www.youtube.com/embed/6swmTBVI83k" 
+      title="Montero" allowfullscreen></iframe>
+
